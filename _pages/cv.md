@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-CV(https://github.com/AnnieYuFeng/annieyufeng.github.io/blob/master/files/today.pdf)
+[CV](https://github.com/AnnieYuFeng/annieyufeng.github.io/blob/master/files/today.pdf)
 
 <!-- {% include base_path %}
 
