@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-[CV](https://github.com/AnnieYuFeng/annieyufeng.github.io/blob/master/files/Online_CV.pdf)
+[CV](https://drive.google.com/file/d/1_lXe57NySWsqMsbEIETOSeIn4RAwg6Cy/view?usp=sharing)
 
 <!-- {% include base_path %}
 
