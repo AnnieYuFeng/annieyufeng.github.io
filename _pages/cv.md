@@ -1,12 +1,12 @@
 ---
 layout: archive
-title: "[CV](https://drive.google.com/file/d/1zpDRdad_3VGu99xxMYgYfVvXuCqi_gaL/view?usp=sharing)"
+title: ""
 permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
 ---
-
+[CV](https://drive.google.com/file/d/1zpDRdad_3VGu99xxMYgYfVvXuCqi_gaL/view?usp=sharing)
 <!-- {% include base_path %}
 
 Education
