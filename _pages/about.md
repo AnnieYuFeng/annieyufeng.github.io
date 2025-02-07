@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
  
-Hi👋! I am a second-year PhD student in Computer and Information Science at the University of Pennsylvania, working with Professor [Dan Roth](https://www.cis.upenn.edu/~danroth/). 
+Hi👋! I am a second-year PhD student in Computer and Information Science at the University of Pennsylvania, advised by Prof. [Dan Roth](https://www.cis.upenn.edu/~danroth/). I received my Master degree in Economics and Computer Science from Duke univeristy advised by Prof. [Sam Wiseman](https://swiseman.github.io/). I graduated from Renmin Univeristy of China (RUC), majored in Mathematics and Applied Mathematics and minor in Computer Science and worked with Prof.[Jing Zhang](https://scholar.google.com/citations?user=T7Wa3GQAAAAJ&hl=en) and Prof.[Xin Zhao](https://scholar.google.com/citations?hl=en&user=JNhNacoAAAAJ&view_op=list_works&sortby=pubdate). 
 
 My research interests lie in Natural Language Processing and Machine Learning. I’m excited about LLM Reasoning and Agents. I’m particularly interested in:
 * LLM reasoning for complex intents, including complex reasoning, decision-making, planning, and interactions.
@@ -35,3 +35,7 @@ ECCV 2024
 [Generic Temporal Reasoning with Differential Analysis and Explanation](https://aclanthology.org/2023.acl-long.671.pdf)<br>
 **Yu Feng**, Ben Zhou, Haoyu Wang, Helen Jin, Dan Roth<br>
 ACL 2023
+
+[A pretraining numerical reasoning model for ordinal constrained question answering on knowledge base](https://aclanthology.org/2021.findings-emnlp.159.pdf) <br>
+**Yu Feng**, Jing Zhang, Gaole He, Wayne Xin Zhao, Lemao Liu, Quan Liu, Cuiping Li, Hong Chen <br>
+EMNLP 2021 Findings
