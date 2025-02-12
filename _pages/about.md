@@ -29,7 +29,7 @@ ICLR 2025 (Oral)
 Preprint 2025
 
 [BLINK: Multimodal Large Language Models Can See but Not Perceive](https://arxiv.org/pdf/2404.12390) <br>
-Xingyu Fu*, Yushi Hu*, Bangzheng Li, **Yu Feng**, Haoyu Wang, Xudong Lin, Dan Roth, Noah A. Smith, Wei-Chiu Ma†, Ranjay Krishna† <br>
+Xingyu Fu*, Yushi Hu*, Bangzheng Li, **Yu Feng**, Haoyu Wang, Xudong Lin, Dan Roth, Noah A. Smith, Wei-Chiu Ma, Ranjay Krishna <br>
 ECCV 2024
 
 [Generic Temporal Reasoning with Differential Analysis and Explanation](https://aclanthology.org/2023.acl-long.671.pdf)<br>
@@ -38,4 +38,4 @@ ACL 2023
 
 [A pretraining numerical reasoning model for ordinal constrained question answering on knowledge base](https://aclanthology.org/2021.findings-emnlp.159.pdf) <br>
 **Yu Feng**, Jing Zhang, Gaole He, Wayne Xin Zhao, Lemao Liu, Quan Liu, Cuiping Li, Hong Chen <br>
-EMNLP 2021 Findings
+EMNLP 2021 (Findings)
