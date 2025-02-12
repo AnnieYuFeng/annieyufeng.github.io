@@ -22,7 +22,7 @@ My research interests lie in Natural Language Processing and Machine Learning. I
 ------
 [BIRD: A Trustworthy Bayesian Inference Framework for Large Language Models](https://arxiv.org/pdf/2404.12494) <br>
 **Yu Feng**, Ben Zhou, Weidong Lin, Dan Roth<br>
-ICLR 2025
+ICLR 2025 (Oral)
 
 [DiverseAgentEntropy: Quantifying Black-Box LLM Uncertainty through Diverse Perspectives and Multi-Agent Interaction](https://drive.google.com/file/d/1xxvHgNjCe76_P9gfkt4OKMbXKkuZpaAO/view?usp=sharing) <br>
 **Yu Feng**, Phu Mon Htut, Zheng Qi, Wei Xiao, Manuel Mager, Nikolaos Pappas, Kishaloy Halder, Yang Li, Yassine Benajiba, Dan Roth <br>
