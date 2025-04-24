@@ -28,6 +28,10 @@ ICLR 2025 (Oral)
 **Yu Feng**, Phu Mon Htut, Zheng Qi, Wei Xiao, Manuel Mager, Nikolaos Pappas, Kishaloy Halder, Yang Li, Yassine Benajiba, Dan Roth <br>
 Preprint 2025
 
+[Boss LLM: Adaptation via No-Regret Learning](https://openreview.net/pdf?id=GNc2izn9Bv) <br>
+**Yu Feng**∗, Avishree Khare∗, Nghia Nguyen∗, & Sikata Sengupta∗<br>
+ICLR 2025 Workshop on Scaling Self-Improving Foundation Models
+
 [BLINK: Multimodal Large Language Models Can See but Not Perceive](https://arxiv.org/pdf/2404.12390) <br>
 Xingyu Fu*, Yushi Hu*, Bangzheng Li, **Yu Feng**, Haoyu Wang, Xudong Lin, Dan Roth, Noah A. Smith, Wei-Chiu Ma, Ranjay Krishna <br>
 ECCV 2024
