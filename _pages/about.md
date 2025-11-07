@@ -20,7 +20,7 @@ My research interests lie in Natural Language Processing and Machine Learning. I
 **Yu Feng**, Ben Zhou, Weidong Lin, Dan Roth<br>
 ICLR 2025 (Oral)
 
-[VeriCoT: Neuro-symbolic Chain-of-Thought Validation via Logical Consistency Checks](https://drive.google.com/file/d/1lIQRr-hneqRHKX7jq4ZWoYvKvuKaJMML/view?usp=sharing) <br>
+[VeriCoT: Neuro-symbolic Chain-of-Thought Validation via Logical Consistency Checks](https://arxiv.org/pdf/2511.04662) <br>
 **Yu Feng**, Nathaniel Weir, Kaj Bostrom, Sam Bayless, Darion Cassel, Sapana Chaudhary, Benjamin Kiesl-Reiter, Huzefa Rangwala<br>
 Preprint 2025
 
