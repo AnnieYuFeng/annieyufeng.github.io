@@ -16,13 +16,13 @@ My research interests lie in Natural Language Processing and Machine Learning. I
   
 📑 Selected Research Projects
 ------
+[VeriCoT: Neuro-symbolic Chain-of-Thought Validation via Logical Consistency Checks](https://arxiv.org/pdf/2511.04662) <br>
+**Yu Feng**, Nathaniel Weir, Kaj Bostrom, Sam Bayless, Darion Cassel, Sapana Chaudhary, Benjamin Kiesl-Reiter, Huzefa Rangwala<br>
+ICLR 2026
+
 [BIRD: A Trustworthy Bayesian Inference Framework for Large Language Models](https://openreview.net/forum?id=fAAaT826Vv) <br>
 **Yu Feng**, Ben Zhou, Weidong Lin, Dan Roth<br>
 ICLR 2025 (Oral)
-
-[VeriCoT: Neuro-symbolic Chain-of-Thought Validation via Logical Consistency Checks](https://arxiv.org/pdf/2511.04662) <br>
-**Yu Feng**, Nathaniel Weir, Kaj Bostrom, Sam Bayless, Darion Cassel, Sapana Chaudhary, Benjamin Kiesl-Reiter, Huzefa Rangwala<br>
-Preprint 2025
 
 [Rethinking LLM Uncertainty: A Multi-Agent Approach to Estimating Black-Box Model Uncertainty](https://arxiv.org/pdf/2412.09572) <br>
 **Yu Feng**, Phu Mon Htut, Zheng Qi, Wei Xiao, Manuel Mager, Nikolaos Pappas, Kishaloy Halder, Yang Li, Yassine Benajiba, Dan Roth <br>
