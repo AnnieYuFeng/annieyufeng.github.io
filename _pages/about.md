@@ -16,7 +16,7 @@ My research interests lie in Natural Language Processing and Machine Learning. I
   
 📑 Selected Research Projects
 ------
-[VeriCoT: Neuro-symbolic Chain-of-Thought Validation via Logical Consistency Checks](https://arxiv.org/pdf/2511.04662) <br>
+[VeriCoT: Neuro-symbolic Chain-of-Thought Validation via Logical Consistency Checks](https://openreview.net/pdf?id=zHuV3Vatov) <br>
 **Yu Feng**, Nathaniel Weir, Kaj Bostrom, Sam Bayless, Darion Cassel, Sapana Chaudhary, Benjamin Kiesl-Reiter, Huzefa Rangwala<br>
 ICLR 2026
 
