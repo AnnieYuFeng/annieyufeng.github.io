@@ -33,10 +33,6 @@ ICLR 2025 (Oral)
 Zhikun Xu, **Yu Feng**, Jacob Dineen, Taiwei Shi, Jieyu Zhao, Ben Zhou<br>
 EMNLP 2026 (Main)
 
-[Is Code Better Than Language for Algorithmic Reasoning?](https://arxiv.org/abs/2606.15589) <br>
-Terry Tong, **Yu Feng**, Surbhi Goel, Dan Roth <br>
-ICML 2026
-
 [Rethinking LLM Uncertainty: A Multi-Agent Approach to Estimating Black-Box Model Uncertainty](https://arxiv.org/pdf/2412.09572) <br>
 **Yu Feng**, Phu Mon Htut, Zheng Qi, Wei Xiao, Manuel Mager, Nikolaos Pappas, Kishaloy Halder, Yang Li, Yassine Benajiba, Dan Roth <br>
 EMNLP 2025 (Findings)
