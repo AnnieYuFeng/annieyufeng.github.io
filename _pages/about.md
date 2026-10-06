@@ -7,9 +7,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
- 
-## About me
-
 Hi👋! I am a fourth-year PhD student in Computer and Information Science at the University of Pennsylvania, advised by Prof. [Dan Roth](https://www.cis.upenn.edu/~danroth/), and currently a research intern at Meta. I received my Master's degree in Economics and Computer Science from Duke University, advised by Prof. [Sam Wiseman](https://swiseman.github.io/). Before that, I graduated from Renmin University of China (RUC) with a major in Mathematics and Applied Mathematics and a minor in Computer Science, where I worked with Prof. [Jing Zhang](https://scholar.google.com/citations?user=T7Wa3GQAAAAJ&hl=en) and Prof. [Xin Zhao](https://scholar.google.com/citations?hl=en&user=JNhNacoAAAAJ&view_op=list_works&sortby=pubdate).
 
 My research goal is to build LLM systems that are **reliable**:
